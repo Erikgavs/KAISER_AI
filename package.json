@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@crtrs/llm": "^0.0.3"
+  }
+}
